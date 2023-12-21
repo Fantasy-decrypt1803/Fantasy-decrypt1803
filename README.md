@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Gavrish, a Machine Learning and NLP developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Gavrish, a Machine Learning and NLP developer 👨‍💻 working remotely since 2021🚀</div>  
   
 
 - 🔭 I’m currently working on Research projects  
