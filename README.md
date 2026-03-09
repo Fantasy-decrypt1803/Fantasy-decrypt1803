@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm **Gavrish**
 <div align="center">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
